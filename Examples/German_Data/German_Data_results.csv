@@ -1,0 +1,16 @@
+Method,Task_Type,Accuracy,Brier_Score,Local_Calibration_Error,Variance,Ambiguity,Max_Disagreement,Disagreement,Dataset,Seed
+Initial_Voting,classification,0.790000,0.162855,0.409534,0.025016,0.379878,0.281874,0.732000,German_Data,0
+Rocile,classification,0.790000,0.163234,0.361323,0.000000,0.000002,0.000001,0.000000,German_Data,0
+AdaRocile_BiasCorrected,classification,0.780000,0.162024,0.281778,0.000000,0.000002,0.000001,0.000000,German_Data,0
+Initial_Voting,classification,0.785000,0.151260,0.488739,0.025989,0.384424,0.284453,0.732000,German_Data,1
+Rocile,classification,0.785000,0.151619,0.350367,0.000000,0.000001,0.000001,0.000000,German_Data,1
+AdaRocile_BiasCorrected,classification,0.770000,0.154919,0.270172,0.000000,0.000001,0.000001,0.000000,German_Data,1
+Initial_Voting,classification,0.785000,0.168350,0.392155,0.027118,0.428484,0.303775,0.729167,German_Data,2
+Rocile,classification,0.785000,0.168681,0.365047,0.000000,0.000002,0.000001,0.000000,German_Data,2
+AdaRocile_BiasCorrected,classification,0.770000,0.190723,0.298487,0.000000,0.000002,0.000001,0.000000,German_Data,2
+Initial_Voting,classification,0.765000,0.169459,0.415024,0.025889,0.386222,0.303415,0.742000,German_Data,3
+Rocile,classification,0.765000,0.169782,0.366984,0.000000,0.000001,0.000001,0.000000,German_Data,3
+AdaRocile_BiasCorrected,classification,0.750000,0.187532,0.300775,0.000000,0.000001,0.000001,0.000000,German_Data,3
+Initial_Voting,classification,0.775000,0.161568,0.424647,0.025253,0.381841,0.293736,0.715000,German_Data,4
+Rocile,classification,0.775000,0.161742,0.358965,0.000000,0.000001,0.000001,0.000000,German_Data,4
+AdaRocile_BiasCorrected,classification,0.760000,0.164917,0.273620,0.000000,0.000002,0.000001,0.000000,German_Data,4

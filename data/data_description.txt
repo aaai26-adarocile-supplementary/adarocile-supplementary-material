@@ -1,0 +1,31 @@
+Sample Dataset Description
+==========================
+
+File: sample_dataset.csv
+
+This is a synthetic dataset created for testing and demonstration purposes.
+
+Dataset Characteristics:
+- Number of samples: 10
+- Number of features: 4 (feature1, feature2, feature3, feature4)
+- Target variable: binary classification (0 or 1)
+- Task type: Classification
+
+Feature Description:
+- feature1: Continuous feature with values between 0.1 and 0.9
+- feature2: Continuous feature with values between 0.1 and 0.9
+- feature3: Continuous feature with values between 0.2 and 1.0
+- feature4: Continuous feature with values between 0.1 and 1.0
+
+Target Description:
+- 0: Negative class
+- 1: Positive class
+- Balanced dataset with 5 samples per class
+
+Usage:
+This dataset can be used to test the Rocile and AdaRocile models
+for binary classification tasks. The features are designed to be
+reasonably separable for demonstration purposes.
+
+Note: This is a small synthetic dataset intended for testing only.
+For real applications, use larger, more representative datasets. 

@@ -1,0 +1,18 @@
+German Dataset - Experiment Summary
+==================================================
+Generated: 2025-08-05 06:08:55
+Task Type: classification
+Number of Seeds: 5
+Total Results: 15
+
+Performance Summary:
+------------------------------
+Initial_Voting: Accuracy = 0.7800 ± 0.0100
+Rocile: Accuracy = 0.7800 ± 0.0100
+AdaRocile_BiasCorrected: Accuracy = 0.7660 ± 0.0114
+
+Disagreement Summary:
+------------------------------
+Initial_Voting: Variance=0.0259, Disagreement=0.7300
+Rocile: Variance=0.0000, Disagreement=0.0000
+AdaRocile_BiasCorrected: Variance=0.0000, Disagreement=0.0000

@@ -1,0 +1,18 @@
+COMPAS Dataset - Experiment Summary
+==================================================
+Generated: 2025-08-05 06:14:00
+Task Type: classification
+Number of Seeds: 5
+Total Results: 15
+
+Performance Summary:
+------------------------------
+Initial_Voting: Accuracy = 0.9932 ± 0.0035
+Rocile: Accuracy = 0.9932 ± 0.0035
+AdaRocile_BiasCorrected: Accuracy = 0.9914 ± 0.0034
+
+Disagreement Summary:
+------------------------------
+Initial_Voting: Variance=0.0164, Disagreement=0.3666
+Rocile: Variance=0.0000, Disagreement=0.0000
+AdaRocile_BiasCorrected: Variance=0.0000, Disagreement=0.0000
