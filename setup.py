@@ -1,0 +1,45 @@
+from setuptools import setup, find_packages
+
+setup(
+    name='rociler',
+    version='0.1.0',
+    description='Rocile and AdaRocile: Ensemble Reconciliation Frameworks',
+    author='Your Name',
+    author_email='your.email@example.com',
+    url='https://github.com/yourusername/rociler',
+    packages=find_packages(),
+    install_requires=[
+        'scikit-learn>=1.2.0',
+        'pandas>=1.3.0',
+        'numpy>=1.21.0',
+        'matplotlib>=3.5.0',
+        'seaborn>=0.11.0',
+        'DESlib>=0.3.0',
+    ],
+    extras_require={
+        'dev': [
+            'pytest>=6.0.0',
+            'pytest-cov>=2.0.0',
+            'black>=21.0.0',
+            'flake8>=3.8.0',
+        ],
+    },
+    classifiers=[
+        'Development Status :: 3 - Alpha',
+        'Intended Audience :: Science/Research',
+        'License :: OSI Approved :: MIT License',
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11',
+        'Topic :: Scientific/Engineering :: Artificial Intelligence',
+        'Topic :: Scientific/Engineering :: Information Analysis',
+    ],
+    python_requires='>=3.8',
+    keywords='machine learning, ensemble methods, reconciliation, classification, regression',
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
+    include_package_data=True,
+    zip_safe=False,
+) 
