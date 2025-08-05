@@ -258,40 +258,9 @@ Both algorithms typically achieve:
 - **Convergence**: 50-80% faster convergence compared to greedy pairwise methods
 - **Local Calibration**: Improved local calibration error (LCE)
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Run the test suite
-6. Submit a pull request
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Citation
 
-If you use this package in your research, please cite:
-
-```bibtex
-@article{rociler2024,
-  title={Rocile and AdaRocile: Ensemble Reconciliation Frameworks},
-  author={Your Name},
-  journal={arXiv preprint},
-  year={2024}
-}
-```
-
-## Support
-
-For questions, issues, or contributions, please:
-
-1. Check the existing issues
-2. Create a new issue with a clear description
-3. Include a minimal reproducible example
-
-## Acknowledgments
-
-This implementation is based on research in ensemble methods and reconciliation frameworks. Special thanks to the scikit-learn community for the excellent base framework. 
