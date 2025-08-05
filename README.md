@@ -35,7 +35,7 @@ Both algorithms are designed to work with any scikit-learn compatible base model
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <[https://github.com/aaai26-adarocile-supplementary/adarocile-supplementary-material.git)]
 cd Code
 ```
 
